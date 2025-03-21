@@ -33,4 +33,4 @@ Plan:
 </pre>
 
 [**octo ring**](https://octo-ring.com/)
-[[prev](https://octo-ring.com/p/edluyuan/prev)]  [[random](https://octo-ring.com/p/edluyuan/random)]  [[next](https://octo-ring.com/p/edluyuan/next)]
+[[random](https://octo-ring.com/p/edluyuan/random)]
