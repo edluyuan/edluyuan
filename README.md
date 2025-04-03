@@ -29,8 +29,7 @@ Artificial Intelligence and Machine Learning group at Microsoft Research</a>.
  Home:           <a href="https://edluyuan.github.io/">edluyuan.github.io/</a>
 
 Plan:
-  Just Wayyy too much homework \o/
+  \o/
 </pre>
 
-[**octo ring**](https://octo-ring.com/)
-[[random](https://octo-ring.com/p/edluyuan/random)]
+
