@@ -29,7 +29,7 @@ Artificial Intelligence and Machine Learning group at Microsoft Research</a>.
  Home:           <a href="https://edluyuan.github.io/">edluyuan.github.io/</a>
 
 Plan:
-  no more exams, please...
+  diffusions, diffusions, diffusion...
 </pre>
 
 
