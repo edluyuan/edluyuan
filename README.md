@@ -22,7 +22,7 @@
 
 <pre>
  ~> <strong>cat note.txt</strong>
-i am a mSc machine learning student at ucl and a research intern in the
+i am a msc machine learning student at ucl and a research intern in the
 artificial intelligence and machine learning group at microsoft research</a>.
  
  ~> <strong>ls links</strong>
