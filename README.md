@@ -22,11 +22,10 @@
 
 <pre>
  ~> <strong>cat note.txt</strong>
-I am a MSc Machine Learning student at UCL and a research intern in the 
-Artificial Intelligence and Machine Learning group at Microsoft Research</a>.
+i am a mSc machine learning student at ucl and a research intern in the artificial intelligence and machine learning group at microsoft research</a>.
  
  ~> <strong>ls links</strong>
- Home:           <a href="https://edluyuan.github.io/">edluyuan.github.io/</a>
+ more about me:           <a href="https://edluyuan.github.io/">edluyuan.github.io/</a>
 
 Plan:
   diffusions, diffusions, diffusions...
