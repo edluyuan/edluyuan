@@ -23,7 +23,7 @@
 <pre>
  ~> <strong>cat note.txt</strong>
 i am a msc machine learning student at ucl and a research intern in the
-artificial intelligence and machine learning group at microsoft research</a>.
+advanced machine learning group at microsoft research</a>.
  
  ~> <strong>ls links</strong>
  more about me:           <a href="https://edluyuan.github.io/">edluyuan.github.io/</a>
