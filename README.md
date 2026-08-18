@@ -25,6 +25,9 @@ i am a machine learning researcher working on reinforcement learning, diffusion 
 
 Plan:
   reading...
+
+Note:
+  I am gradually moving my stuff to codeberg now
 </pre>
 
 
