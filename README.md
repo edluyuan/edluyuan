@@ -27,7 +27,7 @@ Plan:
   reading...
 
 Note:
-  I am gradually moving my stuff to codeberg now
+  I am gradually moving my stuff to codeberg now due to privacy and safty concerns
 </pre>
 
 
