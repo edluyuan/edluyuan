@@ -21,7 +21,7 @@
 i am a machine learning researcher working on reinforcement learning, diffusion models and ebms :)</a>.
  
  ~> <strong>ls links</strong>
- more about me:           <a href="https://edluyuan.github.io/">edluyuan.github.io/</a>
+ more about me:           <a href="https://edluyuan.github.io/" target="_blank">edluyuan.github.io/</a>
 
 Plan:
   reading...
